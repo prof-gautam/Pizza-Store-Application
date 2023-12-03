@@ -1,0 +1,24 @@
+recipe_id,name,ingredients,category
+1,Margherita,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""basil"": ""5g""}",Vegetarian
+2,Pepperoni,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""pepperoni"": ""30g""}",Non-Vegetarian
+3,Veggie Supreme,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""bell peppers"": ""30g"", ""mushrooms"": ""30g"", ""olives"": ""20g""}",Vegetarian
+4,Hawaiian,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""ham"": ""50g"", ""pineapple"": ""40g""}",Non-Vegetarian
+5,BBQ Chicken,"{""cheese"": ""100g"", ""bbq sauce"": ""60g"", ""chicken"": ""70g"", ""onions"": ""30g""}",Non-Vegetarian
+6,Buffalo Chicken,"{""cheese"": ""100g"", ""buffalo sauce"": ""50g"", ""chicken"": ""70g"", ""celery"": ""20g""}",Non-Vegetarian
+7,Mushroom Delight,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""mushrooms"": ""60g""}",Vegetarian
+8,Garlic Chicken,"{""cheese"": ""100g"", ""garlic sauce"": ""50g"", ""chicken"": ""70g"", ""spinach"": ""30g""}",Non-Vegetarian
+9,Four Cheese,"{""mozzarella"": ""50g"", ""cheddar"": ""30g"", ""parmesan"": ""20g"", ""gorgonzola"": ""20g""}",Vegetarian
+10,Spicy Veggie,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""jalapenos"": ""30g"", ""red peppers"": ""30g""}",Vegetarian
+11,Meat Lovers,"{""pepperoni"": ""40g"", ""sausage"": ""30g"", ""ham"": ""30g"", ""bacon"": ""30g""}",Non-Vegetarian
+12,Supreme,"{""cheese"": ""100g"", ""pepperoni"": ""30g"", ""mushrooms"": ""30g"", ""bell peppers"": ""30g"", ""onions"": ""20g""}",Non-Vegetarian
+13,Greek,"{""feta cheese"": ""60g"", ""spinach"": ""40g"", ""olives"": ""30g"", ""tomatoes"": ""30g""}",Vegetarian
+14,Taco Pizza,"{""cheese"": ""100g"", ""ground beef"": ""70g"", ""lettuce"": ""30g"", ""tomatoes"": ""30g"", ""taco sauce"": ""30g""}",Non-Vegetarian
+15,Seafood Special,"{""cheese"": ""100g"", ""shrimp"": ""50g"", ""crab"": ""40g"", ""garlic"": ""20g""}",Non-Vegetarian
+16,Chicken Alfredo,"{""alfredo sauce"": ""60g"", ""chicken"": ""70g"", ""spinach"": ""30g"", ""mushrooms"": ""30g""}",Non-Vegetarian
+17,Roasted Veggie,"{""cheese"": ""100g"", ""zucchini"": ""40g"", ""eggplant"": ""40g"", ""red peppers"": ""30g"", ""onions"": ""20g""}",Vegetarian
+18,Pesto Delight,"{""pesto sauce"": ""60g"", ""mozzarella"": ""100g"", ""cherry tomatoes"": ""40g"", ""arugula"": ""30g""}",Vegetarian
+19,Margherita Plus,"{""cheese"": ""100g"", ""tomato"": ""50g"", ""basil"": ""5g"", ""garlic"": ""10g""}",Vegetarian
+20,Bacon Spinach,"{""cheese"": ""100g"", ""spinach"": ""40g"", ""bacon"": ""50g"", ""onions"": ""30g""}",Non-Vegetarian
+21,Caramelized Onion,"{""cheese"": ""100g"", ""caramelized onions"": ""70g"", ""arugula"": ""30g""}",Vegetarian
+22,Truffle Oil,"{""mozzarella"": ""100g"", ""truffle oil"": ""10ml"", ""mushrooms"": ""50g"", ""arugula"": ""30g""}",Vegetarian
+23,Sweet and Spicy,"{""cheese"": ""100g"", ""spicy sausage"": ""50g"", ""honey"": ""20ml"", ""red pepper flakes"": ""5g""}",Non-Vegetarian
